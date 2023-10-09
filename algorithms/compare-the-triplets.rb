@@ -4,8 +4,8 @@ def compareTriplets(a, b)
     scb=0
     
     a.each_index do |i|
-        sca += 1 if a[i]>b[i]
-        scb += 1 if b[i]>a[i]
+        sca += 1 if a[i] > b[i]
+        scb += 1 if b[i] > a[i]
     end
     
     [sca, scb]    

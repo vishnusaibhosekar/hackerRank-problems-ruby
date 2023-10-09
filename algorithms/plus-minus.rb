@@ -11,8 +11,8 @@ def ans(n, arr)
     zero = 0.0
     
     arr.each_index do |i|
-        pos += 1 if arr[i]>0
-        neg += 1 if arr[i]<0
+        pos += 1 if arr[i] > 0
+        neg += 1 if arr[i] < 0
         zero += 1 if arr[i]==0
     end
     
