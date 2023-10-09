@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/ruby-procs/problem?isFullScreen=true
+# https://www.hackerrank.com/challenges/ruby-procs/problem
 def square_of_sum(my_array, proc_square, proc_sum)
     sum = proc_sum.call(my_array)
     proc_square.call(sum)

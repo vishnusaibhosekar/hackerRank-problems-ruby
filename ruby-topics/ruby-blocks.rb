@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/ruby-blocks/problem?isFullScreen=true
+# https://www.hackerrank.com/challenges/ruby-blocks/problem
 def factorial
     yield
 end

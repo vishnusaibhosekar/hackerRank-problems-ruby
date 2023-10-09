@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/ruby-partial-applications/problem?isFullScreen=true
+# https://www.hackerrank.com/challenges/ruby-partial-applications/problem
 combination = ->(n1) do
     ->(n2) do
         factorial = ->(num) do

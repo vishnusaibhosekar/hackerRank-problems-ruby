@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/ruby-methods-introduction/problem?isFullScreen=true
+# https://www.hackerrank.com/challenges/ruby-methods-introduction/problem
 def prime?(n)
     return false if n <= 1
 

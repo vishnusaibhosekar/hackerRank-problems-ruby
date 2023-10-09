@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/ruby-lazy/problem?isFullScreen=true
+# https://www.hackerrank.com/challenges/ruby-lazy/problem
 is_prime = ->(num) do
     return false if num <= 1
 

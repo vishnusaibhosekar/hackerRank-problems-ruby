@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/ruby-methods-keyword-arguments/problem?isFullScreen=true
+# https://www.hackerrank.com/challenges/ruby-methods-keyword-arguments/problem
 def convert_temp(temp, **option)
     if option[:input_scale] == "kelvin" 
         temp = temp - 273.15

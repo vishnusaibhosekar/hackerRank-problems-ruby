@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/ruby-curry/problem?isFullScreen=true
+# https://www.hackerrank.com/challenges/ruby-curry/problem
 power_function = -> (x, z) {
     (x) ** z
 }

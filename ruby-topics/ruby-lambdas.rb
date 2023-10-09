@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/ruby-lambdas/problem?isFullScreen=true
+# https://www.hackerrank.com/challenges/ruby-lambdas/problem
 square = ->(a) {a*a} 
 
 plus_one = ->(a) {a+1} 
