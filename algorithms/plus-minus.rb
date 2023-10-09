@@ -2,9 +2,6 @@
 n = gets.to_i
 arr = gets.rstrip.split.map(&:to_i)
 
-# puts n
-# puts arr.join(" ")
-
 def ans(n, arr)
     pos = 0.0
     neg = 0.0
